@@ -4,7 +4,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 ## Based on the visualizations and DAX calculations, here are some insights that can be drawn from the dataset:
 
 * The "Electronic accessories" and "Fashion accessories" product lines generate the most revenue, while the "Sports and travel" and "Home and lifestyle" product lines generate the least.
-* Credit card is the most popular payment method, followed by Ewallet and Cash.
+* Credit card is the least popular payment method, followed by Ewallet and Cash.
 * There is a slight difference in purchasing behavior between males and females, with females accounting for a slightly higher percentage of sales.
 * There is no significant correlation between product price and customer rating.
 * There is no significant correlation between the day of the week and sales.
