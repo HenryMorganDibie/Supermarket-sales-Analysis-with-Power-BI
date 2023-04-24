@@ -11,3 +11,4 @@ The growth of supermarkets in most populated cities are increasing and market co
 * There is a slight increase in sales during the afternoon and evening hours.
 * There is no significant difference in sales between members and non-members.
 * There is no significant difference in sales between weekdays and weekends.
+* There is a strong positive correlation between the unit price and the total sales, indicating that customers are willing to pay more for higher-priced products. showme how to visualizw this
